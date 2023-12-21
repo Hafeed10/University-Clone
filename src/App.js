@@ -115,7 +115,7 @@ function App() {
                       <p>Main Address - 47 Street Name, London UK</p>
                     </li>
                     <li>
-                      <p>Phone Number - 0900800700</p>
+                      <p>Phone Number -7558847558</p>
                     </li>
                     <li>
                       <p>Email - react@university.co.uk</p>
